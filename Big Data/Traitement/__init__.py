@@ -2,9 +2,7 @@ from pymongo import MongoClient
 import pymongo
 from pymongo.collection import Collection
 import re
-from reportlab.graphics.barcode.eanbc import words
 import pickle
-from _dbus_bindings import Double
 import math
 from cmath import log
 import copy
