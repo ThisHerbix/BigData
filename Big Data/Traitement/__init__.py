@@ -236,6 +236,12 @@ data2 = [hashtagoccu[0], hashtagoccu[1], hashtagoccu[2], hashtagoccu[3], hashtag
 plt.subplot(212)
 plt.pie(data2, explode=explode, labels=name2, autopct='%1.1f%%', shadow=True)
 plt.axis('equal')
+
+
+
+
+
+
 plt.show()
 
 
